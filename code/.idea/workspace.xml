@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f95b3520-3ac6-4828-b25f-3b59c8c5b685" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/controller/impl/UserControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/dao/impl/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/model/UserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/start/StartUpStage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/util/ImageIconUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/util/ProportionEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/util/SelfAdaptiveScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/util/ShowWindowUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/view/LoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gatva/view/MainMenuFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day1/src/cskaoyan/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day1/src/cskaoyan/housework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day1/src/cskaoyan/housework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day1/src/cskaoyan/housework3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day1/src/housework/housework3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifth/fifth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifth/src/com/housework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifth/src/com/housework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifth/src/com/housework3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifth/src/com/housework4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/fourth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/housework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/MyStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/a/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/b/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/b/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/housework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/housework5/housework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javacode/javacode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javacode/src/com/javanote/CiteTrans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javacode/src/com/javanote/DataTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javacode/src/com/javanote/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javacode/src/com/javanote/stringclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javacode/src/com/javanote/thisdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javanote/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javanote/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javanote/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javanote/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javanote/javanote.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javanote/src/com/cskaoyan/ds/day07/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../third/src/housework/housework3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../third/src/housework/housework4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/Trader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/TransactionRecord.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/LoginFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4093">
+              <caret line="255" lean-forward="true" selection-start-line="255" selection-end-line="255" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/MainMenuFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1151">
+              <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ShowWindowUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="10" selection-start-line="10" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/SelfAdaptiveScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="10" selection-start-line="10" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ProportionEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ImageIconUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-65">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/start/StartUpStage1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/impl/UserControllerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/impl/UserDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/Gatva/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/start/StartUpStage1.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/controller/impl/UserControllerImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/view/MainMenuFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/view/LoginFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="429" />
+    <option name="height" value="465" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Gatva" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Gatva" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Gatva" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Gatva" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Gatva" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Gatva" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Gatva" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Gatva" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="statics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1682757223843" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\IdeaProjects\code\src" />
+      <recent name="C:\Users\acer\IdeaProjects\code\src\com\Gatva" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StartUpStage1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Gatva.start.StartUpStage1" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Gatva.start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartUpStage1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f95b3520-3ac6-4828-b25f-3b59c8c5b685" name="Default Changelist" comment="" />
+      <created>1682756599259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682756599259</updated>
+      <workItem from="1682756600877" duration="1277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1277000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32867134" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20454545" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/impl/Demo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statics/center.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statics/image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/model/UserData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ShowWindowUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/SelfAdaptiveScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ProportionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ImageIconUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/start/StartUpStage1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/MainMenuFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1151">
+          <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4093">
+          <caret line="255" lean-forward="true" selection-start-line="255" selection-end-line="255" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/impl/UserControllerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
