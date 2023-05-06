@@ -4,9 +4,6 @@ import javax.swing.*;
 
 /**
  * 弹窗工具类
- *
- * @since 21:05
- * @author wuguidong@cskaoyan.onaliyun.com
  */
 public class ShowWindowUtils {
 

@@ -21,11 +21,9 @@ public class ImageIconUtils {
 
     /**
      * 通过自适应屏幕设置图片的分辨率
-     * @since 11:21
      * @param adaptiveWidth 自适应的宽度
      * @param adaptiveHeight 自适应的高度
      * @return javax.swing.ImageIcon
-     * @author wuguidong@cskaoyan.onaliyun.com
      */
     public static ImageIcon getHome(int adaptiveWidth, int adaptiveHeight) {
         ImageIcon image = new ImageIcon(home);

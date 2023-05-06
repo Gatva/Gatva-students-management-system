@@ -2,8 +2,6 @@ package com.Gatva.util;
 
 /**
  * 设置页面放缩比例
- * @since 11:54
- * @author wuguidong@cskaoyan.onaliyun.com
  */
 public enum ProportionEnum {
 

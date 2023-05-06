@@ -1,74 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f95b3520-3ac6-4828-b25f-3b59c8c5b685" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/controller/impl/UserControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/dao/impl/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/model/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/start/StartUpStage1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/util/ImageIconUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/util/ProportionEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/util/SelfAdaptiveScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/util/ShowWindowUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/view/LoginFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Gatva/view/MainMenuFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day1/src/cskaoyan/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day1/src/cskaoyan/housework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day1/src/cskaoyan/housework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day1/src/cskaoyan/housework3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day1/src/housework/housework3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fifth/fifth.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fifth/src/com/housework1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fifth/src/com/housework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fifth/src/com/housework3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fifth/src/com/housework4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fourth/fourth.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fourth/src/housework/housework5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/housework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/MyStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/a/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/b/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/b/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/housework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../housework/src/com/housework/day5/housework5/housework1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacode/javacode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacode/src/com/javanote/CiteTrans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacode/src/com/javanote/DataTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacode/src/com/javanote/Dept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacode/src/com/javanote/stringclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacode/src/com/javanote/thisdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javanote/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javanote/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javanote/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javanote/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javanote/javanote.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javanote/src/com/cskaoyan/ds/day07/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../third/src/housework/housework3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../third/src/housework/housework4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/Trader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled4/src/com/cskaoyan/homework/TransactionRecord.java" afterDir="false" />
+    <list default="true" id="f95b3520-3ac6-4828-b25f-3b59c8c5b685" name="Default Changelist" comment="-m&quot;以完成增删查功能&quot;">
+      <change beforePath="$PROJECT_DIR$/students.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,12 +12,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/LoginFrame.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/impl/StudentControllerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4093">
-              <caret line="255" lean-forward="true" selection-start-line="255" selection-end-line="255" />
+            <state relative-caret-position="437">
+              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1397#1398#0" expanded="true" />
+                <element signature="e#1469#1470#0" expanded="true" />
+                <element signature="e#1537#1538#0" expanded="true" />
+                <element signature="e#1607#1608#0" expanded="true" />
+                <element signature="e#1660#1661#0" expanded="true" />
+                <element signature="e#1710#1711#0" expanded="true" />
+                <element signature="e#1816#1817#0" expanded="true" />
+                <element signature="e#1844#1845#0" expanded="true" />
+                <element signature="e#1930#1931#0" expanded="true" />
+                <element signature="e#1954#1955#0" expanded="true" />
+                <element signature="method#convert2TwoD#0;class#StudentControllerImpl#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/StudentListPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6840">
+              <caret line="372" selection-start-line="372" selection-end-line="373" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,65 +51,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/MainMenuFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1151">
-              <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+            <state relative-caret-position="1653">
+              <caret line="99" selection-start-line="99" selection-end-line="100" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ShowWindowUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="10" selection-start-line="10" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/SelfAdaptiveScreen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="10" selection-start-line="10" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ProportionEnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ImageIconUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-65">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gatva/start/StartUpStage1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/impl/UserControllerImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/model/StudentData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="57">
+              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -161,21 +73,75 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/UserController.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/LoginFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="2622">
+              <caret line="157" selection-start-line="157" selection-end-line="158" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1465#1466#0" expanded="true" />
+                <element signature="e#1487#1488#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/impl/UserDaoImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/listener/TableCellListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="190">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/AddStudentFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5149">
+              <caret line="281" column="23" selection-start-line="281" selection-start-column="23" selection-end-line="281" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/UpdateStudentFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7638">
+              <caret line="414" selection-start-line="414" selection-end-line="415" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/StudentDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/impl/StudentDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1577">
+              <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#saveDataToFile#0;class#StudentDaoImpl#0" />
               </folding>
             </state>
           </provider>
@@ -183,19 +149,55 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>STUDENTS</find>
+      <find>已找到</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>students</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Gatva/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/src/com/Gatva/start/StartUpStage1.java" />
-        <option value="$PROJECT_DIR$/src/com/Gatva/controller/impl/UserControllerImpl.java" />
         <option value="$PROJECT_DIR$/src/com/Gatva/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/src/com/Gatva/dao/impl/UserDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/Gatva/view/MainMenuFrame.java" />
         <option value="$PROJECT_DIR$/src/com/Gatva/view/LoginFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/util/ShowWindowUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/util/SelfAdaptiveScreen.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/util/ProportionEnum.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/util/ImageIconUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/start/StartUpStage1.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/model/User.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/controller/impl/UserControllerImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/model/UserData.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/config.properties" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/view/listener/TableCellListener.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/util/NameLimit.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/util/PhoneLimit.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/model/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/util/CheckAndHandleUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/view/MainMenuFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/view/StudentListPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/view/UpdateStudentFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/view/AddStudentFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/dao/StudentDao.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/dao/impl/StudentDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/controller/impl/StudentControllerImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/Gatva/model/StudentData.java" />
       </list>
     </option>
   </component>
@@ -210,16 +212,14 @@
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
-    <option name="width" value="429" />
-    <option name="height" value="465" />
+    <option name="width" value="642" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,6 +276,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="Gatva" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Gatva" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -306,25 +315,45 @@
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Gatva" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="statics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1682757223843" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1682930489278" />
+    <property name="last_opened_file_path" value="E:/BaiduNetdiskDownload/GUI学生管理系统/GUI学生管理系统/GUI-stage5说明文档" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Gatva.view" />
+      <recent name="com.Gatva.view.listener" />
+      <recent name="com.Gatva.util" />
+      <recent name="com.Gatva.controller" />
+      <recent name="com.Gatva.dao" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\IdeaProjects\code\src\com\Gatva\model" />
       <recent name="C:\Users\acer\IdeaProjects\code\src" />
       <recent name="C:\Users\acer\IdeaProjects\code\src\com\Gatva" />
     </key>
@@ -371,121 +400,329 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682756599259</updated>
-      <workItem from="1682756600877" duration="1277000" />
+      <workItem from="1682756600877" duration="8906000" />
+      <workItem from="1682815556495" duration="34409000" />
+      <workItem from="1682991033928" duration="1184000" />
     </task>
+    <task id="LOCAL-00001" summary="-m&quot;以完成增删查功能&quot;">
+      <created>1682920642906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682920642906</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1277000" />
+    <option name="totallyTimeSpent" value="44499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10105093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32867134" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20454545" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17132868" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32867134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-m&quot;以完成增删查功能&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="-m&quot;以完成增删查功能&quot;" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/impl/Demo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/statics/center.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statics/center.jpg" />
     <entry file="file://$PROJECT_DIR$/src/statics/image.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/impl/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_301/src.zip!/javax/swing/table/DefaultTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="701" column="45" lean-forward="true" selection-start-line="701" selection-start-column="45" selection-end-line="701" selection-end-column="45" />
+          <folding>
+            <element signature="e#5569#5570#0" expanded="true" />
+            <element signature="e#5617#5618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_301/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="105" column="35" lean-forward="true" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_301/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="273" column="39" lean-forward="true" selection-start-line="273" selection-start-column="39" selection-end-line="273" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_301/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="65" column="10" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="10" />
+          <folding>
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_301/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+          <folding>
+            <element signature="e#1598#1599#0" expanded="true" />
+            <element signature="e#1628#1629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_301/src.zip!/java/lang/IllegalArgumentException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+          <folding>
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_301/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_301/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="582" column="62" selection-start-line="582" selection-start-column="62" selection-end-line="582" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_301/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="2796" selection-start-line="2796" selection-end-line="2796" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="3" selection-start-line="3" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Gatva/model/UserData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="190">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ShowWindowUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/NameLimit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/SelfAdaptiveScreen.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/PhoneLimit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="10" selection-start-line="10" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ProportionEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ImageIconUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="228">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Gatva/start/StartUpStage1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="152">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ImageIconUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="237">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/SelfAdaptiveScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ProportionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_301/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="5454" column="37" selection-start-line="5454" selection-start-column="37" selection-end-line="5454" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/impl/UserDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/ShowWindowUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/util/CheckAndHandleUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5472">
+          <caret line="308" column="25" lean-forward="true" selection-start-line="308" selection-start-column="25" selection-end-line="308" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="27" selection-start-line="27" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/impl/UserControllerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/students.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/impl/StudentControllerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1469#1470#0" expanded="true" />
+            <element signature="e#1537#1538#0" expanded="true" />
+            <element signature="e#1607#1608#0" expanded="true" />
+            <element signature="e#1660#1661#0" expanded="true" />
+            <element signature="e#1710#1711#0" expanded="true" />
+            <element signature="e#1816#1817#0" expanded="true" />
+            <element signature="e#1844#1845#0" expanded="true" />
+            <element signature="e#1930#1931#0" expanded="true" />
+            <element signature="e#1954#1955#0" expanded="true" />
+            <element signature="method#convert2TwoD#0;class#StudentControllerImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/StudentListPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6840">
+          <caret line="372" selection-start-line="372" selection-end-line="373" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -494,8 +731,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/MainMenuFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1151">
-          <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+        <state relative-caret-position="1653">
+          <caret line="99" selection-start-line="99" selection-end-line="100" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -504,18 +741,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/LoginFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4093">
-          <caret line="255" lean-forward="true" selection-start-line="255" selection-end-line="255" />
+        <state relative-caret-position="2622">
+          <caret line="157" selection-start-line="157" selection-end-line="158" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1465#1466#0" expanded="true" />
+            <element signature="e#1487#1488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/listener/TableCellListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gatva/controller/impl/UserControllerImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/AddStudentFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="5149">
+          <caret line="281" column="23" selection-start-line="281" selection-start-column="23" selection-end-line="281" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/view/UpdateStudentFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7638">
+          <caret line="414" selection-start-line="414" selection-end-line="415" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/StudentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/dao/impl/StudentDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#saveDataToFile#0;class#StudentDaoImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gatva/model/StudentData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

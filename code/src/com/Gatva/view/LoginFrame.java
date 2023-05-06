@@ -19,9 +19,6 @@ import java.awt.event.KeyListener;
 
 /**
  * 学生管理系统-登录页面,首页
- *
- * @since 10:31
- * @author wuguidong@cskaoyan.onaliyun.com
  */
 public class LoginFrame extends JFrame implements ActionListener {
 
@@ -51,8 +48,6 @@ public class LoginFrame extends JFrame implements ActionListener {
 
     /**
      * 用于初始化登陆界面
-     * @since 20:04
-     * @author wuguidong@cskaoyan.onaliyun.com
      */
     private void init() {
         // 1.界面基本设置
@@ -120,8 +115,6 @@ public class LoginFrame extends JFrame implements ActionListener {
         class LoginPanel extends JPanel {
             /**
              * 初始化画板类对象
-             * @since 16:09
-             * @author wuguidong@cskaoyan.onaliyun.com
              */
             private void draw() {
                 this.setLayout(null);
@@ -157,9 +150,6 @@ public class LoginFrame extends JFrame implements ActionListener {
 
     /**
      * 两个按钮的点击事件监控
-     * @since 9:20
-     * @param e 点击动作
-     * @author wuguidong@cskaoyan.onaliyun.com
      */
     @Override
     public void actionPerformed(ActionEvent e) {
@@ -175,8 +165,6 @@ public class LoginFrame extends JFrame implements ActionListener {
 
     /**
      * 密码输入框键盘监听事件
-     * @since 20:55
-     * @author wuguidong@cskaoyan.onaliyun.com
      */
     private void passwordKeyListener() {
         // 密码框键盘录入监听回车，表示登录
@@ -202,8 +190,6 @@ public class LoginFrame extends JFrame implements ActionListener {
     /**
      * 用户名输入框键盘录入监听,目的不是为了接收键盘录入,而是为了监听回车键
      * 在用户名输入框中,只要完成一次敲击回车,就将焦点转移到密码输入框,方便用户输入密码
-     * @since 16:59
-     * @author wuguidong@cskaoyan.onaliyun.com
      */
     private void userNameKeyListener() {
         usernameText.addKeyListener(new KeyListener() {
@@ -228,8 +214,6 @@ public class LoginFrame extends JFrame implements ActionListener {
      * 判断用户名和密码是否合法，并完成对应操作
      *  1.账户密码正确，则允许登陆，跳转到主页面
      *  2.错误，则提示错误，要求重新输入
-     * @since 17:16
-     * @author wuguidong@cskaoyan.onaliyun.com
      */
     private void loginJudge() {
         String usernameInput = usernameText.getText();

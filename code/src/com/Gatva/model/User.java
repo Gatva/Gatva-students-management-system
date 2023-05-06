@@ -2,9 +2,6 @@ package com.Gatva.model;
 
 /**
  * 管理员用户实体类
- *
- * @since 10:01
- * @author wuguidong@cskaoyan.onaliyun.com
  */
 public class User {
 

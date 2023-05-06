@@ -1,14 +1,11 @@
 package com.Gatva.view;
 
+import com.Gatva.controller.StudentController;
+import com.Gatva.controller.impl.StudentControllerImpl;
 import com.Gatva.util.ImageIconUtils;
 import com.Gatva.util.ProportionEnum;
 import com.Gatva.util.SelfAdaptiveScreen;
 import com.Gatva.util.ShowWindowUtils;
-import com.Gatva.util.ImageIconUtils;
-import com.Gatva.util.ProportionEnum;
-import com.Gatva.util.SelfAdaptiveScreen;
-import com.Gatva.util.ShowWindowUtils;
-
 
 import javax.swing.*;
 import java.awt.*;
@@ -22,27 +19,29 @@ import java.awt.event.ActionListener;
  * @author wuguidong@cskaoyan.onaliyun.com
  */
 public class MainMenuFrame extends JFrame implements ActionListener {
-    // 中央王道logo
+
     private JPanel centerPanel;
-    // 王道logo图片和label
+    // 图片和label
     private ImageIcon logoIcon;
     private JLabel centerLabel;
 
     // 自适应屏幕分辨率后的宽高
-    private int adaptiveWidth = SelfAdaptiveScreen.getAdaptiveWidth(this, ProportionEnum.MAIN_RATIO);
-    private int adaptiveHeight = SelfAdaptiveScreen.getAdaptiveHeight(this, ProportionEnum.MAIN_RATIO);
+    public int adaptiveWidth = SelfAdaptiveScreen.getAdaptiveWidth(this, ProportionEnum.MAIN_RATIO);
+    public int adaptiveHeight = SelfAdaptiveScreen.getAdaptiveHeight(this, ProportionEnum.MAIN_RATIO);
 
+
+    private StudentController studentController=new StudentControllerImpl();
     /**
      * 当mark值为0时，表示需要欢迎界面logo。其余数值传入则不需要。
      * @since 11:24
      * @param mark 指示是否创建欢迎界面logo
-     * @author wuguidong@cskaoyan.onaliyun.com
      */
     public MainMenuFrame(int mark) {
         init(mark);
     }
 
     private void init(int mark) {
+        // 主界面自适应屏幕
         SelfAdaptiveScreen.setAdaptiveSize(this, ProportionEnum.MAIN_RATIO);
         // 1.界面
         // 设置背景为白色
@@ -77,7 +76,6 @@ public class MainMenuFrame extends JFrame implements ActionListener {
         }
         this.add(menuPanel, BorderLayout.WEST);
 
-        // 添加中央王道logo
         // 标志0代表第一次进入,需要欢迎界面
         if (mark == 0) {
             centerPanel = new JPanel();
@@ -95,23 +93,34 @@ public class MainMenuFrame extends JFrame implements ActionListener {
         menusButs[0].addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                ShowWindowUtils.showWarning("待实现!");
+                // 点击查询,先关闭欢迎logo
+                if (centerPanel != null) {
+                    centerPanel.setVisible(false);
+                }
+                StudentListPanel studentListPanel = new StudentListPanel(MainMenuFrame.this);
+                MainMenuFrame.this.add(studentListPanel, BorderLayout.CENTER);
             }
         });
 
         // 按钮2: 新增学生
-        menusButs[1].addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                ShowWindowUtils.showWarning("待实现!");
-            }
+        menusButs[1].addActionListener(e -> {
+            MainMenuFrame.this.setVisible(false);
+            MainMenuFrame newMain = new MainMenuFrame(0);
+            AddStudentFrame add = new AddStudentFrame(newMain);
+            newMain.setEnabled(false);
         });
 
         // 按钮3：保存至文件
         menusButs[2].addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                ShowWindowUtils.showWarning("待实现!");
+                // 点击保存执行的操作
+                boolean flag = studentController.saveDataToFile();
+                if (flag) {
+                    ShowWindowUtils.showInfo("保存成功!");
+                    return;
+                }
+                ShowWindowUtils.showWarning("保存失败!");
             }
         });
 
@@ -123,6 +132,7 @@ public class MainMenuFrame extends JFrame implements ActionListener {
                 System.exit(1);
             }
         });
+
 
         // 启动窗口
         this.setVisible(true);

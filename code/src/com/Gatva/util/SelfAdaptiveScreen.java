@@ -5,8 +5,6 @@ import java.awt.*;
 
 /**
  * 自适应屏幕获取高度和宽度,工具类
- * @since 13:59
- * @author wuguidong@cskaoyan.onaliyun.com
  */
 public class SelfAdaptiveScreen {
     private SelfAdaptiveScreen() {
